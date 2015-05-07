@@ -1,3 +1,10 @@
+linux-meta (1.1) jessie-wikimedia; urgency=low
+
+  * Add versioned dependency on updated firmware-bnx2 firmware (needed
+    by Linux 3.18 and later (see Debian #779128) (Bug: T97411)
+
+ -- Moritz Muehlenhoff <moritz@wikimedia.org>  Thu, 07 May 2015 15:35:06 +0200
+
 linux-meta (1.0) jessie-wikimedia; urgency=low
 
   * Initial release.
