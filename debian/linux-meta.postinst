@@ -1,0 +1,14 @@
+#!/bin/bash
+
+KVERSION=3.19.0-1-amd64
+
+set -e
+
+if [ ! -e /boot/initrd.img-$KVERSION ] ; then
+    update-initramfs -c -k $KVERSION
+    update-grub
+fi
+
+#DEBHELPER#
+
+exit 0
