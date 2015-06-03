@@ -1,3 +1,9 @@
+linux-meta (1.2) jessie-wikimedia; urgency=medium
+
+  * Install perf by default (Bug: T100216)
+
+ -- Moritz Muehlenhoff <moritz@wikimedia.org>  Wed, 03 Jun 2015 11:54:01 +0200
+
 linux-meta (1.1) jessie-wikimedia; urgency=low
 
   * Add versioned dependency on updated firmware-bnx2 firmware (needed
