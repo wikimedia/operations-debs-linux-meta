@@ -1,6 +1,6 @@
 #!/bin/bash
 
-KVERSION=3.19.0-1-amd64
+KVERSION=3.19.0-2-amd64
 
 set -e
 

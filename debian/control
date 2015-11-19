@@ -7,7 +7,7 @@ Standards-Version: 3.9.6
 
 Package: linux-meta
 Architecture: any
-Depends: linux-image-3.19.0-1-amd64 [amd64], initramfs-tools, grub2-common, firmware-bnx2x (>= 0.43-1~wmf1), linux-tools-3.19, ${misc:Depends}
+Depends: linux-image-3.19.0-2-amd64 [amd64], initramfs-tools, grub2-common, firmware-bnx2x (>= 0.43-1~wmf1), linux-tools-3.19, ${misc:Depends}
 Description: Meta package for kernel images
  This package depends on the latest Linux kernel used in the WMF environment.
  It can also serve to depend on firmware packages not part of the stock Linux
