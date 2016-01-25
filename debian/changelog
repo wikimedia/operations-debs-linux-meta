@@ -1,3 +1,21 @@
+linux-meta (1.6) jessie-wikimedia; urgency=medium
+
+  * Tighten dependency for latest 3.19 update
+
+ -- Moritz Muehlenhoff <moritz@wikimedia.org>  Mon, 25 Jan 2016 14:42:42 +0100
+
+linux-meta (1.5) jessie-wikimedia; urgency=medium
+
+  * Fix execution of update-grub
+
+ -- Moritz Muehlenhoff <moritz@wikimedia.org>  Tue, 19 Jan 2016 20:01:51 +0000
+
+linux-meta (1.4) jessie-wikimedia; urgency=medium
+
+  * Bump for 3.19.3-10
+
+ -- Moritz Muehlenhoff <mmuhlenhoff@wikimedia.org>  Tue, 19 Jan 2016 20:49:37 +0100
+
 linux-meta (1.3) jessie-wikimedia; urgency=medium
 
   * Bump to kernel ABI 3.19.0-2 / version 3.19.3-9

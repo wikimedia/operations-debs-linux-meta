@@ -6,8 +6,8 @@ set -e
 
 if [ ! -e /boot/initrd.img-$KVERSION ] ; then
     update-initramfs -c -k $KVERSION
-    update-grub
 fi
+update-grub
 
 #DEBHELPER#
 
