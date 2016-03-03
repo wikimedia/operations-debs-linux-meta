@@ -1,3 +1,9 @@
+linux-meta (1.7) jessie-wikimedia; urgency=medium
+
+  * Build a new meta package for 4.4 (linux-meta-4.4)
+
+ -- Moritz Muehlenhoff <mmuhlenhoff@wikimedia.org>  Thu, 03 Mar 2016 16:17:03 +0100
+
 linux-meta (1.6) jessie-wikimedia; urgency=medium
 
   * Tighten dependency for latest 3.19 update
