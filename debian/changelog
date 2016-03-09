@@ -1,3 +1,9 @@
+linux-meta (1.9) jessie-wikimedia; urgency=medium
+
+  * Add a versioned dependency on the updated firmware package
+
+ -- Moritz Muehlenhoff <mmuhlenhoff@wikimedia.org>  Wed, 09 Mar 2016 11:56:47 +0100
+
 linux-meta (1.8) jessie; urgency=medium
 
   * Have linux-meta point to 4.4 and add a new meta package
