@@ -1,3 +1,10 @@
+linux-meta (1.8) jessie; urgency=medium
+
+  * Have linux-meta point to 4.4 and add a new meta package
+    linux-meta-3.19 to explicitly 
+
+ -- Moritz Muehlenhoff <mmuhlenhoff@wikimedia.org>  Wed, 09 Mar 2016 10:39:46 +0100
+
 linux-meta (1.7) jessie-wikimedia; urgency=medium
 
   * Build a new meta package for 4.4 (linux-meta-4.4)
