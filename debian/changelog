@@ -1,3 +1,10 @@
+linux-meta (1.10) jessie-wikimedia.org; urgency=medium
+
+  * Update to new linux package with ABI 2
+  * Drop the linux-meta-3.19 transition package, no longer needed
+
+ -- Moritz Muehlenhoff <mmuhlenhoff@wikimedia.org>  Thu, 08 Sep 2016 16:49:07 +0200
+
 linux-meta (1.9) jessie-wikimedia; urgency=medium
 
   * Add a versioned dependency on the updated firmware package
