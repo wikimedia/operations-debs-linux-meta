@@ -1,4 +1,4 @@
-linux-meta (1.10) jessie-wikimedia.org; urgency=medium
+linux-meta (1.10) jessie-wikimedia; urgency=medium
 
   * Update to new linux package with ABI 2
   * Drop the linux-meta-3.19 transition package, no longer needed
