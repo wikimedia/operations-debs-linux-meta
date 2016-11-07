@@ -1,3 +1,9 @@
+linux-meta (1.11) jessie-wikimedia; urgency=medium
+
+  * Update to new linux package with ABI 3
+
+ -- Moritz Muehlenhoff <mmuhlenhoff@wikimedia.org>  Mon, 07 Nov 2016 09:09:01 +0100
+
 linux-meta (1.10) jessie-wikimedia; urgency=medium
 
   * Update to new linux package with ABI 2
