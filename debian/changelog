@@ -1,9 +1,19 @@
-linux-meta (1.13) jessie-wikimedia; urgency=medium
+linux-meta (1.14) jessie-wikimedia; urgency=medium
 
   * Bump meta package for new ABI in 4.9
   * Have linux-meta depend on the latest linux-meta-4.9
+    (Reimport of 1.13 to git and bump version)
 
  -- Moritz Muehlenhoff <mmuhlenhoff@wikimedia.org>  Mon, 06 Nov 2017 11:32:55 +0100
+
+linux-meta (1.13) jessie-wikimedia; urgency=medium
+
+  * Update kernel package name for 4.9 (the unsigned prefix was
+    dropped since Secure Boot support didn't make it into stretch)
+  * Have linux-meta depend on -4.9, we only support 4.9 in jessie
+    from this point forward
+
+ -- Moritz Muehlenhoff <mmuhlenhoff@wikimedia.org>  Mon, 19 Jun 2017 15:18:27 +0200
 
 linux-meta (1.12) jessie-wikimedia; urgency=medium
 
