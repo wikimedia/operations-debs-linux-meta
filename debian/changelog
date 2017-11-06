@@ -1,3 +1,10 @@
+linux-meta (1.13) jessie-wikimedia; urgency=medium
+
+  * Bump meta package for new ABI in 4.9
+  * Have linux-meta depend on the latest linux-meta-4.9
+
+ -- Moritz Muehlenhoff <mmuhlenhoff@wikimedia.org>  Mon, 06 Nov 2017 11:32:55 +0100
+
 linux-meta (1.12) jessie-wikimedia; urgency=medium
 
   * Add new meta package for Linux 4.9

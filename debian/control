@@ -7,7 +7,7 @@ Standards-Version: 3.9.6
 
 Package: linux-meta
 Architecture: any
-Depends: linux-meta-4.4
+Depends: linux-meta-4.9 (= 1.13)
 Description: Meta package for kernel images
  This package depends on the latest Linux kernel used in the WMF environment.
  It can also serve to depend on firmware packages not part of the stock Linux
@@ -23,7 +23,7 @@ Description: Meta package for 4.4 kernel images
 
 Package: linux-meta-4.9
 Architecture: any
-Depends: linux-image-4.9.0-0.bpo.2-amd64-unsigned [amd64], initramfs-tools, grub2-common, firmware-bnx2x (>= 20161130-2~bpo8+1)
+Depends: linux-image-4.9.0-0.bpo.4-amd64 [amd64], initramfs-tools, grub2-common, firmware-bnx2x (>= 20161130-2~bpo8+1)
 Description: Meta package for 4.9 kernel images
  This package depends on the latest Linux kernel used in the WMF environment.
  It can also serve to depend on firmware packages not part of the stock Linux
