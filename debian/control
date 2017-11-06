@@ -7,7 +7,7 @@ Standards-Version: 3.9.6
 
 Package: linux-meta
 Architecture: any
-Depends: linux-meta-4.9 (= 1.13)
+Depends: linux-meta-4.9 (= ${binary:Version})
 Description: Meta package for kernel images
  This package depends on the latest Linux kernel used in the WMF environment.
  It can also serve to depend on firmware packages not part of the stock Linux

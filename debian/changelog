@@ -1,3 +1,9 @@
+linux-meta (1.15) jessie-wikimedia; urgency=medium
+
+  * Use (= ${binary:Version}) in linux-meta dependencies
+
+ -- Moritz Muehlenhoff <mmuhlenhoff@wikimedia.org>  Mon, 06 Nov 2017 12:45:07 +0100
+
 linux-meta (1.14) jessie-wikimedia; urgency=medium
 
   * Bump meta package for new ABI in 4.9
