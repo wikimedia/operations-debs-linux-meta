@@ -1,3 +1,9 @@
+linux-meta (1.17) jessie-wikimedia; urgency=medium
+
+  * Bump meta package for new ABI in 4.9 (caused by retpoline changes)
+
+ -- Moritz Muehlenhoff <mmuhlenhoff@wikimedia.org>  Thu, 22 Feb 2018 10:59:24 +0100
+
 linux-meta (1.16) jessie-wikimedia; urgency=medium
 
   * Bump meta package for new ABI in 4.9
