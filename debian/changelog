@@ -1,3 +1,10 @@
+linux-meta (1.20) stretch-wikimedia; urgency=medium
+
+  * Add new meta package for Linux 4.14
+  * Drop obsolete 3.19 postinst script
+
+ -- Moritz Muehlenhoff <mmuhlenhoff@wikimedia.org>  Fri, 07 Sep 2018 15:04:38 +0200
+
 linux-meta (1.19) jessie-wikimedia; urgency=medium
 
   * Bump meta package for new ABI in L1TF fixes
