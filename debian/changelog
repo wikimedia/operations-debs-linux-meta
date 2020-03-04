@@ -1,3 +1,9 @@
+linux-meta (1.23) jessie-wikimedia; urgency=medium
+
+  * Bump meta package for new ABI in 4.9.210 for jessie
+
+ -- Moritz Muehlenhoff <jmm@debian.org>  Wed, 04 Mar 2020 12:51:26 +0100
+
 linux-meta (1.22) jessie-wikimedia; urgency=medium
 
   * Bump meta package for new ABI in 4.9.189 for jessie
